@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Mateo Periago"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Hi."
   location         : "Murcia, Spain"
   email            : "mateo@meligrana.com"
   links:
